@@ -18,7 +18,7 @@ JavaScript objects are a way to store related key/value pairs together.
 
 ```js
 const veganCookieRecipe = {
-  ingredientList: ['flour', 'margarine', 'dark chocolate', 'sugar', 'baking poder', 'coconut milk'],
+  ingredientList: ['flour', 'margarine', 'dark chocolate', 'sugar', 'baking powder', 'coconut milk'],
   cookTemp: 375,
   cookTime: '10 min'
 }
